@@ -108,3 +108,6 @@ class NewVisitorTest(LiveServerTestCase):
 
         # End
 
+    def test_layout_and_styling(self):
+        pass #chapter 8
+
